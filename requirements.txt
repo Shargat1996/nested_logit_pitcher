@@ -1,0 +1,13 @@
+voila>=0.4.0
+notebook
+nbconvert
+ipywidgets
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+sklearn.linear_model 
+sklearn.preprocessing
+scipy.spatial.distance
+IPython
