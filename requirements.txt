@@ -10,4 +10,6 @@ scikit-learn
 sklearn.linear_model 
 sklearn.preprocessing
 scipy.spatial.distance
-IPython
+ipython
+pillow
+imageio
